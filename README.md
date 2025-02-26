@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18368727&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -6,18 +5,14 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 a branch of computer science used for developing,testing and maintaining software
-it helps create software that is reliable, scalable and meets users needs
-
 Identify and describe at least three key milestones in the evolution of software engineering.
-The Development of Capability Maturity Model-assess the maturity  of software development processes within organizations and provides framework for standardized software development processes emphasizing the importance of documentation the Emergence of Agile Methodologies-emerge as a response to the limitations  of traditional  software development approaches,emphasizing flexibility and continuous improvement and rapid delivery the Nato Software Engineering Conference-faces challenges by software engineering like complexity of software systems, the lack of standardization and the need fof more systematic approaches to software development 
-
+The Development of Capability Maturity Model-assess the maturity  of software development processes within organizations and provides framework for standardized software development processes emphasizing the importance of documentation the Emergence of Agile Methodologies-emerge as a response to the limitations  of traditional  software development approaches,emphasizing flexibility and continuous improvement and rapid delivery the Nato Software Engineering Conference-faces challenges by software engineering like complexity of software systems, the lack of standardization and the need for more systematic approaches to software development 
 List and briefly explain the phases of the Software Development 
 Planning-identify the projects objectives and timelines
 Requirement analysis- review and refine the requirements to ensure they are complete and consistent 
 Design- create a detailed design document outlining the softwares components, interfaces and data structures 
 Implementation - Develop the softwares code according to the design specifications 
 Testing- test the integrated software system to ensure it works correctly 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be 
 Waterfall Methodologies 
 Testing is done at the end of the development phase
@@ -27,7 +22,6 @@ Agile Methodologies
 Testing is continuous and done after ezch interaction 
 Regular customer feedback is in every phasr
 Interactiveand incremental with multiple cycles 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer
 Developing applications, programs and systems also maintaining and updating software to keep it functional 
@@ -36,7 +30,6 @@ Create development standards and procedures for the programmes to follow
 Project Manager
 Assembles and lead the software development team
 Creates a blueprint for the project 
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Intergrated Development Environment 
 Improves productivity: a set of tools,features and plugins
@@ -48,7 +41,6 @@ Collaboration and coordination: work on the same project simultaneously without 
 Change tracking and auditing: provides a clear record of all changes,like who made changes,when and why
 Versioning and rollback:allows developers to easily revert to previous versions of the codebase if needed 
 Examples are Git ,Clearcase and Subversion
-
 What are some common challenges faced by software engineers? Provide strategies to overcome them
 Technical Debt: insufficient testing can lead to technical debt,making it challenging to maintain and update codebase
 Burnout and Exhaustion: excessive working hours can lead to burnout and exhaustion 
@@ -58,7 +50,6 @@ Strategies
 Improve their overall job satisfaction 
 Establish clear boundaries 
 Seek support from managers amd mentors
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit testing- involves testing individual units of code such as functions,methods or modules to ensure they work correctly
              -identify bugs ,reducing the overall cost of testing and debugging
@@ -82,8 +73,7 @@ The process of designing and optimizing text prompts or inputs to elicit specifi
 improved accuracy: well crafted prompts can signify improve the accuracy of Al models responses
 increased relevance: effective prompts  can help AI models provide more relevant and context- specific responses increasing their usefulness and value
 Better understanding of AI model: Prompt engineering helps developers and users understand the strengths, weaknesses and limitations 
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 A guy and a girl are standing outside of church 
 Write a story 200 words about a boy and girl standing outside  of church and they're shaking hands but the guy doesn't want to let go of the girls hand but the girl doesn't mind because she likes him amd they're both looking at each others eyes they tell each others names but when the guy leaves she jumps up and down because shes excited 
-The prompt is effective because it's specifies details about what is happening outside the church and between the boy and girl,clarity the number of words which should be written  and concise because itz straught to the point
+The prompt is effective because it's specifies details about what is happening outside the church and between the boy and girl,clarity the number of words which should be written  and concise because its straight to the point
