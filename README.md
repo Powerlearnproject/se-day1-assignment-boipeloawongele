@@ -9,9 +9,7 @@ a branch of computer science used for developing,testing and maintaining softwar
 it helps create software that is reliable, scalable and meets users needs
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-The Development of Capability Maturity Model-assess the maturity  of software development processes within organizations and provides framework for standardized software development processes emphasizing the importance of documentation 
-The Emergence of Agile Methodologies-emerge as a response to the limitations  of traditional  software development approaches,emphasizing flexibility and continuous improvement and rapid delivery 
-The Nato Software Engineering Conference-faces challenges by software engineering like complexity of software systems, the lack of standardization and the need fof more systematic approaches to software development 
+The Development of Capability Maturity Model-assess the maturity  of software development processes within organizations and provides framework for standardized software development processes emphasizing the importance of documentation the Emergence of Agile Methodologies-emerge as a response to the limitations  of traditional  software development approaches,emphasizing flexibility and continuous improvement and rapid delivery the Nato Software Engineering Conference-faces challenges by software engineering like complexity of software systems, the lack of standardization and the need fof more systematic approaches to software development 
 
 List and briefly explain the phases of the Software Development 
 Planning-identify the projects objectives and timelines
