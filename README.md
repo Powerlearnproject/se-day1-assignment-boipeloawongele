@@ -5,7 +5,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-a branch of computer science used for developing,testing and maintaining software
+Is the application of engineering principles and techniques of engineering principles and techniques to the design ,development, testing and maintenance 
+
+Quality and Reliability ensures that software system are realible and stable and meet required quality standards 
+Innovation and Competitiveness enables companies to innovate and stay competitive in the market
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
